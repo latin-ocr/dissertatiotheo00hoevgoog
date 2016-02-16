@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertatiotheo00hoevgoog_0025.png"; bbox 0 0 2959 5284; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 627 1808 700 1890">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 627 1808 700 1890">
+     <span class='ocr_line' id='line_1_1' title="bbox 627 1808 700 1890; baseline -0.014 -32"><span class='ocrx_word' id='word_1_1' title='bbox 627 1808 700 1890; x_wconf 32' lang='lat' dir='ltr'><strong>&#39;DE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 199 2037 1158 2169">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 199 2037 1158 2169">
+     <span class='ocr_line' id='line_1_2' title="bbox 199 2037 1158 2169; baseline 0.002 -43"><span class='ocrx_word' id='word_1_2' title='bbox 199 2037 678 2165; x_wconf 15' lang='grc' dir='ltr'>ΡΗΙΗΡΡΟΛΑ</span> <span class='ocrx_word' id='word_1_3' title='bbox 740 2040 1158 2169; x_wconf 11' lang='lat' dir='ltr'><strong>umbonum}</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 323 2503 1180 2572">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 323 2503 1180 2572">
+     <span class='ocr_line' id='line_1_3' title="bbox 323 2503 1180 2572; baseline 0.009 -8"><span class='ocrx_word' id='word_1_4' title='bbox 323 2503 561 2565; x_wconf 79' lang='lat' dir='ltr'><strong>DISSERTATIO</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 585 2504 1036 2566; x_wconf 72' lang='lat' dir='ltr'><strong>fflsTonlco-THEOLOGIGA.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1173 2568 1180 2572; x_wconf 87' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1484 5284">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1484 5284">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1484 5284; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1484 5284; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
